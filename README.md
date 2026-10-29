@@ -98,7 +98,7 @@ Development will follow an issue-driven workflow inspired by a software engineer
 
 1. **Plan:** Translate roadmap requirements into GitHub Issues with clear acceptance criteria, estimates, and dependencies.
 2. **Prioritize:** Organize issues into short sprints, working approximately **3–4 hours per day**.
-3. **Branch:** Create a focused feature or fix branch from the current integration branch (for example, `feature/task-crud`).
+3. **Branch:** Create a focused feature or fix branch from the current integration branch (for example, `feature/3-task-crud`).
 4. **Implement:** Make small, reviewable commits; include validation, security, and error handling where relevant.
 5. **Test:** Run applicable backend and frontend tests; add integration tests for critical API workflows.
 6. **Review:** Open a Pull Request, check acceptance criteria and CI results, then merge after review.
